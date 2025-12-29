@@ -222,3 +222,5 @@
 108.165.177.0/24,MY,MY-14,Kuala Lumpur,59200
 108.165.183.0/24,MY,MY-14,Kuala Lumpur,59200 #Non Prem
 23.27.0.0/24,HK,HK,Hong Kong,000000
+136.0.254.0/24,MY,MY-14,Kuala Lumpur,59200 #Non Prem
+23.26.204.0/24,MY,MY-14,Kuala Lumpur,59200
